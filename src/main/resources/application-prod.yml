@@ -1,0 +1,7 @@
+server:
+  port: 10000
+db:
+  name: chris_db_prod
+  port: 5431
+  username: chris_prod
+  password: chris_prod

@@ -1,0 +1,7 @@
+server:
+  port: 9090
+db:
+  name: chris_db_dev
+  port: 5431
+  username: chris_dev
+  password: chris_dev

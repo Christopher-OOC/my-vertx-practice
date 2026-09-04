@@ -1,0 +1,9 @@
+app:
+  version: 1.0.0
+server:
+  port: 7070
+db:
+  name: chris_db
+  port: 5432
+  username: chris
+  password: chris
